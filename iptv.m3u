@@ -1,0 +1,116 @@
+#EXTM3U
+
+#EXTINF:0,Discovery USA
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:0,SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:0,ESPN
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0,Discovery ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:0,Kanal D
+https://blutv-beta.akamaized.net/kanaldhd/kanaldhd.smil/playlist.m3u8
+#EXTINF:0,Star
+https://blutv-beta.akamaized.net/startvhd/startvhd.smil/playlist.m3u8
+#EXTINF:0,ATV
+https://blutv-beta.akamaized.net/atvhd/atvhd.smil/playlist.m3u8
+#EXTINF:0,Show TV
+https://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8
+#EXTINF:0,FOX
+https://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8
+#EXTINF:0,FX
+https://blutv-beta.akamaized.net/fx/fx.smil/playlist.m3u8
+#EXTINF:0,tv8
+https://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/playlist.m3u8
+#EXTINF:0,tv8,5
+https://blutv-beta.akamaized.net/tv8.5hd/tv8.5hd.smil/playlist.m3u8
+#EXTINF:0,Kanal 7
+https://blutv-beta.akamaized.net/kanal7hd/kanal7hd.smil/playlist.m3u8
+#EXTINF:0,NTV
+https://blutv-beta.akamaized.net/ntvhd/ntvhd.smil/playlist.m3u8
+#EXTINF:0,CNN Türk
+https://blutv-beta.akamaized.net/cnnturkhd/cnnturkhd.smil/playlist.m3u8
+#EXTINF:0,ÜLKE TV
+https://blutv-beta.akamaized.net/ulketvhd/ulketvhd.smil/playlist.m3u8
+#EXTINF:0,a Spor
+https://blutv-beta.akamaized.net/aspor/aspor.smil/playlist.m3u8
+#EXTINF:0,Teledeporte
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8|X-Forwarded-For=217.15.42.90
+#EXTINF:0,DR1
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8|X-Forwarded-For=159.20.6.38
+#EXTINF:0,DR2
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8|X-Forwarded-For=159.20.6.38
+#EXTINF:0,DR3
+https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8|X-Forwarded-For=159.20.6.38
+#EXTINF:0,DR-K
+https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8|X-Forwarded-For=159.20.6.38
+#EXTINF:0,DR-Ramasjang
+https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8|X-Forwarded-For=159.20.6.38
+#EXTINF:0,DR-Ultra
+https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8|X-Forwarded-For=159.20.6.38
+#EXTINF:0,Mega CL
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8|X-Forwarded-For=190.105.239.166&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-name="001" tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.9.png",TVNZ 1
+http://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-name="002" tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",TVNZ 2
+http://i.mjh.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-name="003" tvg-id="tv.11" tvg-logo="http://i.mjh.nz/nz/images/tv.11.png",Three
+http://i.mjh.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.221&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTM3U x-tvg-url="http://i.mjh.nz/au/Adelaide/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="001" tvg-id="tv.101406050651" tvg-logo="http://i.mjh.nz/au/images/tv.101406050651.png",10 Bold
+http://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="002" tvg-id="tv.101305050552" tvg-logo="http://i.mjh.nz/au/images/tv.101305050552.png",7TWO
+http://i.mjh.nz/au/Adelaide/tv.101305050552.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="003" tvg-id="tv.101305050555" tvg-logo="http://i.mjh.nz/au/images/tv.101305050555.png",7flix
+http://i.mjh.nz/au/Adelaide/tv.101305050555.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="004" tvg-id="tv.101305040557" tvg-logo="http://i.mjh.nz/au/images/tv.101305040557.png",7food network Adelaide
+http://i.mjh.nz/au/Adelaide/tv.101305040557.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="005" tvg-id="tv.101305050553" tvg-logo="http://i.mjh.nz/au/images/tv.101305050553.png",7mate
+http://i.mjh.nz/au/Adelaide/tv.101305050553.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="006" tvg-id="tv.101204500457" tvg-logo="http://i.mjh.nz/au/images/tv.101204500457.png",9Gem
+http://i.mjh.nz/au/Adelaide/tv.101204500457.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="007" tvg-id="tv.101204500458" tvg-logo="http://i.mjh.nz/au/images/tv.101204500458.png",9Go!
+http://i.mjh.nz/au/Adelaide/tv.101204500458.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="008" tvg-id="tv.101204500454" tvg-logo="http://i.mjh.nz/au/images/tv.101204500454.png",9Life
+http://i.mjh.nz/au/Adelaide/tv.101204500454.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="009" tvg-id="tv.101002510251" tvg-logo="http://i.mjh.nz/au/images/tv.101002510251.png",ABC
+http://i.mjh.nz/au/Adelaide/tv.101002510251.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="010" tvg-id="tv.abc2" tvg-logo="https://iptv.matthuisman.nz/au/images/tv.abc2.png",ABC Comedy
+http://i.mjh.nz/au/Adelaide/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="011" tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/au/images/tv.abckids.png",ABC KIDS
+http://i.mjh.nz/au/Adelaide/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="012" tvg-id="tv.101002210224" tvg-logo="http://i.mjh.nz/au/images/tv.101002210224.png",ABC ME
+http://i.mjh.nz/au/Adelaide/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="013" tvg-id="tv.101002210220" tvg-logo="http://i.mjh.nz/au/images/tv.101002210220.png",ABC NEWS
+http://i.mjh.nz/au/Adelaide/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="014" tvg-id="tv.101204500451" tvg-logo="http://i.mjh.nz/au/images/tv.101204500451.png",Channel 9
+http://i.mjh.nz/au/Adelaide/tv.101204500451.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="019" tvg-id="tv.320203000301" tvg-logo="http://i.mjh.nz/au/images/tv.320203000301.png",SBS
+http://i.mjh.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="020" tvg-id="tv.320203000304" tvg-logo="http://i.mjh.nz/au/images/tv.320203000304.png",SBS Food
+http://i.mjh.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="021" tvg-id="tv.320203000302" tvg-logo="http://i.mjh.nz/au/images/tv.320203000302.png",SBS VICELAND
+http://i.mjh.nz/au/Sydney/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="022" tvg-id="tv.101305020520" tvg-logo="http://i.mjh.nz/au/images/tv.101305020520.png",Seven
+http://i.mjh.nz/au/Sydney/tv.101305020520.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-name="023" tvg-id="tv.101406020625" tvg-logo="http://i.mjh.nz/au/images/tv.101406020625.png",TEN
+http://i.mjh.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
