@@ -1,14 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Joyn
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={
-  "keys":[
-    {"kty":"oct","kid":"NzI5ZGIzZmRkM2RjNGM2MWVlZmYxZTU0NWUxYzliMWQ=","k":"NDk2OTkxYTM5MDExMTU3MWI4YzczNzViMWYwMjMzMGE="},
-    {"kty":"oct","kid":"ZDA2NTFlZjg5Njg4NTkzZTg5NzI5MGY5YmM5YmE4MDg=","k":"OGZmNTVkNmFiYTRjYmIyZGUzYzFmNTBiYTQyNjc3YWY="},
-    {"kty":"oct","kid":"NWVlMTc0YTAxZjZiNTIxMjhiNGYzZDRhOTY2ODlkZDI=","k":"NGVmOTQzMGFkYzM2NTkxZmQ1ZGY3MjQyNTUwYmI3NTI="},
-    {"kty":"oct","kid":"YWM2ZTcwZmM4OWJkNTZlNWIwODQwMGYwZTJhN2IwMzA=","k":"YTEyY2E2MWMxNWZmNjA1ODY3OWQ2ZTk2YjUyOGIzMDU="}
-  ],
-  "type":"temporary"
-}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cp2z_dPcTGHu_x5UXhybHQ","k":"SWmRo5ARFXG4xzdbHwIzCg"},{"kty":"oct","kid":"0GUe-JaIWT6JcpD5vJuoCA","k":"j_VdarpMuy3jwfULpCZ3rw"},{"kty":"oct","kid":"XuF0oB9rUhKLTz1Klmid0g","k":"TvlDCtw2WR_V33JCVQu3Ug"},{"kty":"oct","kid":"rG5w_Im9VuWwhADw4qewMA","k":"oSymHBX_YFhnnW6WtSizBQ"}],"type":"temporary"}
 https://ac-003.live.p7s1video.net/8b37d0f0/t_003/joyn-at-event01-hd/cenc-default.mpd
