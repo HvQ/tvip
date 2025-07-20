@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1, Joyn
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={
+  "keys":[
+    {"kty":"oct","kid":"NzI5ZGIzZmRkM2RjNGM2MWVlZmYxZTU0NWUxYzliMWQ=","k":"NDk2OTkxYTM5MDExMTU3MWI4YzczNzViMWYwMjMzMGE="},
+    {"kty":"oct","kid":"ZDA2NTFlZjg5Njg4NTkzZTg5NzI5MGY5YmM5YmE4MDg=","k":"OGZmNTVkNmFiYTRjYmIyZGUzYzFmNTBiYTQyNjc3YWY="},
+    {"kty":"oct","kid":"NWVlMTc0YTAxZjZiNTIxMjhiNGYzZDRhOTY2ODlkZDI=","k":"NGVmOTQzMGFkYzM2NTkxZmQ1ZGY3MjQyNTUwYmI3NTI="},
+    {"kty":"oct","kid":"YWM2ZTcwZmM4OWJkNTZlNWIwODQwMGYwZTJhN2IwMzA=","k":"YTEyY2E2MWMxNWZmNjA1ODY3OWQ2ZTk2YjUyOGIzMDU="}
+  ],
+  "type":"temporary"
+}
+https://ac-003.live.p7s1video.net/8b37d0f0/t_003/joyn-at-event01-hd/cenc-default.mpd
