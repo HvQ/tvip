@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1, Demo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={
+  "keys":[
+    {"kty":"oct","kid":"OTAyYTA1MWE2YjM2NTZhZWFjMTkyNmZjMGY1ZDkyMzI=","k":"N2ExM2FjYjhkN2NmMTJmZGZhZWNlYTE5Yzk2ZWRjNGU="},
+    {"kty":"oct","kid":"NGQ0YjBjYTI1YWMxNThmMGI5YzE5ODNjNTE3ZWUyYjU=","k":"NDE5NTRjY2E1YTk4YjAwYWQwNWRiOGJiZjIzMzBmZWU="},
+    {"kty":"oct","kid":"ZjA5MzdlOWE3N2M4NTVmMGE2ZDQzODY0YzVkOWYzNjU=","k":"ZDA0MTE0MWY0ZTU1NjA3OWE4OWM2ODVhNmNhNTBmNGE="},
+    {"kty":"oct","kid":"NTE3NDUzODYyZDQyNTZmZDhiYWQ0ZjU4NDIyMDA0ZDc=","k":"NWI0Yjg0OGVhYzA4NTVkNzkxNjVkMDVmM2NmMTZkNTY="},
+    {"kty":"oct","kid":"MjY0NzBmNDI5NmQ0NWQwNGE5YmFiYjQ0MmUxNjk4MDA=","k":"YTM4ZTFhZGU4YTM2N2I3ZjZmZDA0MjcxMjY5MDJjMTk="}
+  ],
+  "type":"temporary"
+}
+https://storage.googleapis.com/shaka-demo-assets/sintel-widevine/dash.mpd
