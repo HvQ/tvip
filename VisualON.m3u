@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1, VisualON
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={
+  "keys":[
+    {"kty":"oct","kid":"30303030303030303030303030303033","k":"42466c842ac1c5439b1e0c09fbb4e1d2"},
+    {"kty":"oct","kid":"30303030303030303030303030303032","k":"1f379ea38c70e407f76b23ec6401caef"},
+    {"kty":"oct","kid":"30303030303030303030303030303030","k":"3f0a33f34098b9e22bc078e0a1b5e854"},
+    {"kty":"oct","kid":"30303030303030303030303030303037","k":"79b8734fb98d275a907a6a5a150128bb"},
+    {"kty":"oct","kid":"30303030303030303030303030303031","k":"78a1dc0646119707e903514d8a00735f"},
+    {"kty":"oct","kid":"30303030303030303030303030303034","k":"22f09f84b568a5d007e4b1d116943581"},
+    {"kty":"oct","kid":"30303030303030303030303030303035","k":"9ac3036e04ac9d2be946ed62405149bc"},
+    {"kty":"oct","kid":"30303030303030303030303030303036","k":"3145985824334ec4cb4ac4bdc3e2beef"}
+  ],
+  "type":"temporary"
+}
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_sd.mpd
